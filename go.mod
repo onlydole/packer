@@ -49,7 +49,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/hashicorp/go-version v1.2.0
 	github.com/hashicorp/hcl/v2 v2.9.1
-	github.com/hashicorp/packer-plugin-amazon v0.0.0-20210319171433-9e090856aae4
+	github.com/hashicorp/packer-plugin-amazon v0.0.0-20210322103904-ebc9f7a3cb33
 	github.com/hashicorp/packer-plugin-docker v0.0.2
 	github.com/hashicorp/packer-plugin-sdk v0.1.0
 	github.com/hashicorp/vault/api v1.0.4
